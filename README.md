@@ -52,8 +52,6 @@ This desktop game replicates the core mechanics of the original game — matchin
 
 - **Muhammad Sarim**
 
-Project submitted as part of the **Programming Fundamentals** course.
-
 ---
 
 ## 📝 License
